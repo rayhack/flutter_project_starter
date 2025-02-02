@@ -1,4 +1,5 @@
 
+
 # Flutter GetX Template
 
 Flutter Getx template: Starting up new project with all needed configuration has never been easier.
@@ -8,9 +9,9 @@ Flutter Getx template: Starting up new project with all needed configuration has
 ## Used By
 - [Accessline Company](https://accessline.ps/)
 - [Smart Angle Group](https://www.smartanglegroup.com)
-- GACA (+10k) ( [Google Play](https://play.google.com/store/apps/details?id=accessline.gaca.app) - [Apple Store](https://apps.apple.com/il/app/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81/id1616229306) )
+- [Squarement](https://www.squarement.sa/)
+- GACA (+10k) ( [Google Play](https://play.google.com/store/apps/details?id=com.talapps.hrApp&hl=en) - [Apple Store](https://apps.apple.com/il/app/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81/id1616229306) )
 - Hr App ( [Google Play](https://play.google.com/store/apps/details?id=com.talapps.hrApp) - [Apple Store]() )
-- Wafaa ( [Google Play](https://play.google.com/store/apps/details?id=loai.wafaa))
 - Jumpers ( [Google Play](https://play.google.com/store/apps/details?id=com.jumpers.ksa) - [Apple Store](https://apps.apple.com/us/app/jumpers-app/id1662183546) )
 - Open Source : [Ecommerce Ui Kit](https://github.com/AbdQader/flutter_ecommerce_app)
 - Open Source : [Weather App](https://github.com/AbdQader/flutter_weather_app)
@@ -27,25 +28,19 @@ We all face the same problem when we want to start a new project we have to take
 - Changing between widgets during api call (loading,success,failed..etc) 🔥
 - Snackbar,Toasts & in app notifications 🪖
 - Making app more responsive and stop font scaling 🚀
-- Change app Icon, Name and packageid 🖋️
+- Change app Icon, Name and package id 🖋️
 
 This project will take care of all this repeatable things so you can start your project in few steps and you will have all the mentioned points set up and ready to use 😎
 
-## Upcoming Updates
-- [ ] Update to latest Flutter Version 🔥
-- [ ] Update to GetX 5 🚀
-- [ ] Add overlay loading functionality 🎨
-
-
-## Latest Updates 🚀
-- [x] Update to latest flutter version (3.10.6)
-- [x] Update Theme classes
-- [x] Update safe api call class
-- [x] Refactor Code
-- [x] Update Example
+## Latest Updates ([Updated Branch](https://github.com/EmadBeltaje/flutter_getx_template/tree/upgrade_to_latest_flutter_and_getx_version)) 🚀
+- [x] **Upgraded** project to work with the **latest Flutter versions** 🔥
+- [x] **Updated** to **GetX 5** 🚀
+- [x] **Fixed** deprecated code and ensured compatibility 🛠️
+- [x] **Refactored** code and resolved all Dart lints 🛠️
 
 
 ## What is new 🌟
+- [x] **GetX 5** support 
 - [x] Separate Local Notification helper from fcm helper 🛠️
 - [x] Integration Test for BaseClient 🧪
 - [x] Integration Test for Awesome Notifications Helper 🧪
@@ -55,7 +50,6 @@ This project will take care of all this repeatable things so you can start your 
 - [x] Unit Test for MyHive 🧪
 - [x] Unit Test for Localization Service 🧪
 - [x] Replace get_storage with SharedPref (unsolved testing problems with get_storage) 📦️
-- [x] Refactor Code 🛠️
 
 [//]: # (## Acknowledgment)
 
